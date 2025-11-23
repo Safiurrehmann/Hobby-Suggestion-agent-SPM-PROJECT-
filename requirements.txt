@@ -1,4 +1,4 @@
-fastapi==0.120.4
+fastapi==0.109.0
 uvicorn[standard]==0.23.2
 pydantic==2.6.3
 openai==1.1.1
